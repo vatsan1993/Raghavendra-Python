@@ -1,0 +1,4 @@
+Max, 20, 99.9, A Grade
+Jimmy, 19, 73.4, B Grade
+Jean, 21, 50.3, D Grade
+Ali, 20, 60.12, C Grade
