@@ -1,0 +1,14 @@
+Milk, 1000
+Sugar, 500
+Rice, 2000
+Chocolate, 500
+Strawberries, 250
+Blueberries, 100
+Cheese, 100
+Paneer, 200
+Peas, 300
+Potatoes, 250
+Beans, 100
+Tomatoes, 500
+Curd, 200
+Flour, 1000

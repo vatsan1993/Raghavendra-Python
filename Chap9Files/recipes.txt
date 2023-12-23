@@ -1,0 +1,9 @@
+Pizza
+Flour : 250, Cheese : 100, Tomatoes : 150, Water : 100, yeast : 10, Salt : 10, Sugar : 5, Basil : 5, Oregano : 5
+Use the flour, Mix Water, Mix yeast, add sugar, Rest the dough, make the pizza base, add cheese, put the toppings, cook it in the oven, enjoy
+Fired Rice
+Water : 100, Salt : 10, Rice : 300, Oil : 50, Carrots : 20, Onions : 30, Beans : 20, Capsicum : 10, Spring Onion : 10, Soy Sauce : 20, Tomato Sauce : 25, Chillie Sauce : 20
+semi boil the rice, chop the veggies, semi cook the veggies, add oil to pan , add the rice, add veggies, add soy sauce, add chillie sauce, enjoy
+Kaju Tomato
+Tomato : 500, Butter : 200, Kaju : 100, Chillie Power : 50, Garam Masala : 10, Salt : 10
+Bend tomatoes, remove chunky bits, roast kaju in butter, cook the tomatoes, add salt, add chillie powder, add garam masala, add the kaju, enjoy
