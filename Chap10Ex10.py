@@ -7,16 +7,20 @@ print(math.gcd(5, 10, 15, 20))
 
 import os
 
-print(os.name)
+print(os.name) # name of the os
 
-print(os.listdir("./"))
+print(os.listdir("./")) # lists the files and folders in the specified directory
 
-path = os.path.join("./", "package1")
+path = os.path.join("./", "package1") # joins two paths into one.
 
 print(os.listdir(path))
 
+# https://www.geeksforgeeks.org/os-walk-python/
+for root, folders, files in os.walk("Sample Dir"):
+    print(root)
+    print(folders)
+    print(files)
 
-# read about os.walk
 
 # important modules
 # os, sys, math, random, processing, itertools, functools, csv, sqlite, json, datetime, tkinter.
